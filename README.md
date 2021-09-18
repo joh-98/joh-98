@@ -1,0 +1,16 @@
+## Welcome!
+
+I'm Johnathan - a (mostly) frontend software engineer that specialises in Javascript frameworks and native mobile applications.
+
+My biggest strengths are in:
+
+- HTML;
+- CSS/SCSS;
+- Vanilla JS;
+- Vue.JS;
+- React JS; and
+- React Native
+
+In my repositories you should find examples of that!
+
+If there's anything you'd like to know drop me a message.
