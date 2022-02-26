@@ -11,6 +11,4 @@ My biggest strengths are in:
 - React JS; and
 - React Native
 
-In my repositories you should find examples of that!
-
 If there's anything you'd like to know drop me a message.
